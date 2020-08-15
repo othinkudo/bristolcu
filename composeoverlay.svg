@@ -4,7 +4,7 @@
     <style type="text/css">
         .linkid {
 
-            /*Heading 3 (overlay) colour:*/
+            /*Heading 3 (Overlay) colour:*/
             fill: hsl(0, 0%, 100%);
         }
     </style>
