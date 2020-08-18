@@ -1,4 +1,6 @@
-<!-- Adjust svg fill value according to @body-text on lines 18, 30 and 37. This is the simplified version from icons8.com (iOS Glyph →Popular → Website Sections→ External Link). -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Adjust svg fill value according to @body-text on lines 19, 31 and 38. This is the simplified version from icons8.com (iOS Glyph →Popular → Website Sections→ External Link). -->
 
 <!-- OLD VERSION
 <svg fill="hsla(0, 0%, 44%, 0.81)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16px" height="16px">
@@ -6,7 +8,6 @@
 </svg>
 -->
 
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
